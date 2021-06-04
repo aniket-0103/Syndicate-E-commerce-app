@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778778490013",
+    "project_id": "e-commerce-c0ef8",
+    "storage_bucket": "e-commerce-c0ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778778490013:android:60280660a0d7486a64d074",
+        "android_client_info": {
+          "package_name": "com.hackathon.covid_trendz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778778490013-464fnpa7vl237ms232sbte3jdpkqsovi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnTTqx4Ul4OYOlI0ruYZX1bDpwLA8RiAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778778490013-464fnpa7vl237ms232sbte3jdpkqsovi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
